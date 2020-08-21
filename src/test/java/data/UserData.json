@@ -1,0 +1,9 @@
+[
+   {
+   
+   "firstname" : "test" ,
+   "lastname" : "team",
+   "email" : "sample@example.com",
+   "password" : "test123456789"
+   }
+]
